@@ -33,12 +33,12 @@
  },
  "repository": {
    "type": "git",
-   "url": "git+https://github.com/joannehkim/mean_project.git"
+   "url": "git+https://github.com/joannehkim/frame.git"
  },
  "author": "",
  "license": "ISC",
  "bugs": {
-   "url": "https://github.com/joannehkim/mean_project/issues"
+   "url": "https://github.com/joannehkim/frame/issues"
  },
- "homepage": "https://github.com/joannehkim/mean_project#readme"
+ "homepage": "https://github.com/joannehkim/frame#readme"
  }
